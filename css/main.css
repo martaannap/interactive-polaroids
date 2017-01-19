@@ -26,7 +26,7 @@ html {
   text-shadow: 1px 1px 3px #000;
   position: absolute;
   left: 80px;
-  bottom: 10px;
+  bottom: 20px;
 }
 
 .polaroid:first-child {
@@ -47,7 +47,7 @@ html {
 .polaroid:last-child {
   transform: rotate(35deg);
   left: 40%;
-  top: 90px;
+  top: 95px;
   z-index: 2;
 }
 
